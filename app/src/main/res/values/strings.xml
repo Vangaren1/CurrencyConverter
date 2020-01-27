@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="main_title">Currency Converter</string>
+    <string name="convertButton">Convert Currency</string>
+    <string-array name="currencyNames">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>UK</item>
+    </string-array>
+
+</resources>
